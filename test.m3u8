@@ -1,4 +1,6 @@
 #EXTM3U
 
+#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="ALL INDIA PREMIUM PACK",& Pictures
+
 #EXTINF:-1,Star Gold India HD
 https://watchindia.net:8443/live/09768/07380/785.ts
